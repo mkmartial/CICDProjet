@@ -1,0 +1,10 @@
+C:\Courses\Projets\CICDProjet\DevCICD\bin\Debug\DevCICD.dacpac
+C:\Courses\Projets\CICDProjet\DevCICD\bin\Debug\DevCICD.dll
+C:\Courses\Projets\CICDProjet\DevCICD\bin\Debug\DevCICD.pdb
+C:\Courses\Projets\CICDProjet\DevCICD\obj\Debug\DevCICD.sqlproj.AssemblyReference.cache
+C:\Courses\Projets\CICDProjet\DevCICD\obj\Debug\Model.xml
+C:\Courses\Projets\CICDProjet\DevCICD\obj\Debug\refactor.xml
+C:\Courses\Projets\CICDProjet\DevCICD\obj\Debug\postdeploy.sql
+C:\Courses\Projets\CICDProjet\DevCICD\obj\Debug\predeploy.sql
+C:\Courses\Projets\CICDProjet\DevCICD\obj\Debug\DevCICD.dll
+C:\Courses\Projets\CICDProjet\DevCICD\obj\Debug\DevCICD.pdb
